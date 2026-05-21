@@ -1,0 +1,10 @@
+streamlit
+groq
+pytesseract
+pillow
+pypdf
+python-docx
+pandas
+langdetect
+opencv-python
+numpy
