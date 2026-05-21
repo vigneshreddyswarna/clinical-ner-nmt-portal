@@ -6,5 +6,5 @@ pypdf
 python-docx
 pandas
 langdetect
-opencv-python
+opencv-python-headless
 numpy
